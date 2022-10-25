@@ -1,6 +1,6 @@
 {
-    "name": "pierwsza_appka",
-    "short_name": "pierwsza_appka",
+    "name": "wizytowka",
+    "short_name": "wizytowka",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
